@@ -1,0 +1,19 @@
+commit 8a96079bf0dbb71c552830a42cf235c9567305b0
+Author: Jussi Asp <jussi.asp@helsinki.fi>
+Date:   Tue Nov 3 22:46:01 2020 +0200
+
+    laskarit/ ja README.md kommentteja
+
+ README.md                        |  4 ++++
+ laskarit/viikko1/gitlog.txt      |  0
+ laskarit/viikko1/komentorivi.txt | 23 +++++++++++++++++++++++
+ 3 files changed, 27 insertions(+)
+
+commit 6c5b8f43ab269f4ea6faf9241b9ef7a4b5660eb0
+Author: Jussi Asp <jussi.asp@helsinki.fi>
+Date:   Tue Nov 3 22:31:42 2020 +0200
+
+    initial commit
+
+ README.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
