@@ -4,15 +4,15 @@ Sovelluksella käyttäjä voi arvoida mikä on kuvan väri. Ladataan kuva jostai
 
 ## Dokumentaatio
 
-[Käyttöohje](https://github.com/jussico/ot-harjoitustyo/blob/master/dokumentaatio/kayttoohje.md)
+TODO: [Käyttöohje](https://github.com/jussico/ot-harjoitustyo/blob/master/ColorApp/dokumentaatio/kayttoohje.md)
 
-[Vaatimusmäärittely](https://github.com/jussico/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
+[Vaatimusmäärittely](https://github.com/jussico/ot-harjoitustyo/blob/master/ColorApp/dokumentaatio/vaatimusmaarittely.md)
 
-[Arkkitehtuurikuvaus](https://github.com/jussico/ot-harjoitustyo/blob/master/dokumentaatio/arkkitehtuuri.md)
+TODO: [Arkkitehtuurikuvaus](https://github.com/jussico/ot-harjoitustyo/ColorApp/blob/master/dokumentaatio/arkkitehtuuri.md)
 
-[Testausdokumentti](https://github.com/jussico/ot-harjoitustyo/blob/master/dokumentaatio/testaus.md)
+TODO: [Testausdokumentti](https://github.com/jussico/ot-harjoitustyo/ColorApp/blob/master/dokumentaatio/testaus.md)
 
-[Työaikakirjanpito](https://github.com/jussico/ot-harjoitustyo/blob/master/dokumentaatio/tuntikirjanpito.md)
+TODO: [Työaikakirjanpito](https://github.com/jussico/ot-harjoitustyo/ColorApp/blob/master/dokumentaatio/tuntikirjanpito.md)
 
 ## Komentorivitoiminnot
 
