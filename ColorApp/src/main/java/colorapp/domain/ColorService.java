@@ -9,7 +9,8 @@ import java.util.Properties;// TODO: oikea?
 public class ColorService {
         
     public ColorService(Properties properties) {
-    	// TODO: tee jotain ehkä       
+        // TODO: tee jotain ehkä       
+        
     }
     
     /**
