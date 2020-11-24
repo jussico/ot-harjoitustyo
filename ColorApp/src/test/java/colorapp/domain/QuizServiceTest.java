@@ -15,13 +15,13 @@ import org.junit.Test;
  *
  * @author asp
  */
-public class ColorServiceTest {
+public class QuizServiceTest {
     
-    ColorService service;
+    QuizService service;
     
     @Before
     public void setUp() {    	
-        service = new ColorService(null);     
+        service = new QuizService(null);     
       
     }
     

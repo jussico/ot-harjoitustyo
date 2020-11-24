@@ -2,7 +2,7 @@ package colorapp.ui;
 
 import java.util.Properties;
 
-import colorapp.domain.ColorService;
+import colorapp.domain.QuizService;
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
@@ -15,7 +15,7 @@ import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 
 public class ColorUi extends Application {
-    private ColorService colorService;
+    private QuizService colorService;
     
     private Scene colorListScene;
     private Scene colorQuestScene;
@@ -25,7 +25,7 @@ public class ColorUi extends Application {
     @Override
     public void init() throws Exception {
         Properties properties = new Properties();
-        colorService = new ColorService(properties);
+        colorService = new QuizService(properties);
     }
         
     @Override

@@ -102,6 +102,6 @@
 
     <module name="SuppressionFilter">
     	<property name="file" value="skipped_files.xml" />
-    </module    
+    </module>    
 
 </module>
