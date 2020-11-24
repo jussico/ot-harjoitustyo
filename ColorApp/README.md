@@ -8,11 +8,11 @@ TODO: [Käyttöohje](https://github.com/jussico/ot-harjoitustyo/blob/master/Colo
 
 [Vaatimusmäärittely](https://github.com/jussico/ot-harjoitustyo/blob/master/ColorApp/dokumentaatio/vaatimusmaarittely.md)
 
-TODO: [Arkkitehtuurikuvaus](https://github.com/jussico/ot-harjoitustyo/ColorApp/blob/master/dokumentaatio/arkkitehtuuri.md)
+[Arkkitehtuurikuvaus](https://github.com/jussico/ot-harjoitustyo/ColorApp/blob/master/dokumentaatio/arkkitehtuuri.md)
 
 TODO: [Testausdokumentti](https://github.com/jussico/ot-harjoitustyo/ColorApp/blob/master/dokumentaatio/testaus.md)
 
-TODO: [Työaikakirjanpito](https://github.com/jussico/ot-harjoitustyo/ColorApp/blob/master/dokumentaatio/tuntikirjanpito.md)
+[Työaikakirjanpito](https://github.com/jussico/ot-harjoitustyo/ColorApp/blob/master/dokumentaatio/tuntikirjanpito.md)
 
 ## Komentorivitoiminnot
 
