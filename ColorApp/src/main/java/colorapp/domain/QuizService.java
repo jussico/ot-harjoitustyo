@@ -1,6 +1,6 @@
 package colorapp.domain;
 
-import java.util.Properties;// TODO: oikea?
+import java.util.Properties;    // TODO: oikea?
 
 /**
  * Quizmaster-class handling quizzes
@@ -21,7 +21,7 @@ public class QuizService {
     
     public boolean makeQuess(String quess, String correct) {
     	// TODO
-    	if(quess.equals(correct)) {
+    	if (quess.equals(correct)) {
     		return true;
     	} else {
     		return false;

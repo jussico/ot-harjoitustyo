@@ -9,11 +9,11 @@ public class ImageAccessObject {
 
         Object returnValue = "";    // TODO: some image format.
 
-        if(location.startsWith("https://")) {
+        if (location.startsWith("https://")) {
             // ok. do something.
-        } else if(location.startsWith("http://")) {
+        } else if (location.startsWith("http://")) {
             // ok. do something.
-        } else if(location.startsWith("file:///")) {
+        } else if (location.startsWith("file:///")) {
             // ok. do something else.
         } else {
             // not ok.
