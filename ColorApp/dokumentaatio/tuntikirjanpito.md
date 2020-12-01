@@ -8,5 +8,6 @@
 | 24.11. | 0.5  | arkkitehtuurikuvaus |
 |        | 0.5  | checkstyle |
 |        | 2    | new classes |
-| yht   | 7   | | 
+| 1.12. | 3     | coding, new classes |
+| yht   | 10   | | 
 

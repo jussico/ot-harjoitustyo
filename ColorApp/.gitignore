@@ -7,3 +7,6 @@ target/
 /nbproject/
 .vscode/
 nbactions.xml
+*.jpg
+*.png
+

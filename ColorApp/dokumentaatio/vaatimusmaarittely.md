@@ -13,6 +13,9 @@ Alkuvaiheessa vain yksi käyttäjä. Mahdollisuus myöhemmin lisätä useampiä 
 
 Sovellus koostuu listan muokkausnäkymästä ja arvuuttelutilasta. Arvuuttelutilan looppi keskeytyy siirryttäessä listan editointitilaan.
 
+* Listaa pystyy muokkaamaan. TEHTY.
+* Listassa olevia kuvia haetaan urlin perusteella. TEHTY. (https:// -alkuiset.)
+* Näytetään haettu kuva käyttöliittymässä. TEHTY.
 
 ## Jatkokehitysideoita
 

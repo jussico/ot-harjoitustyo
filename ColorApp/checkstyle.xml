@@ -12,7 +12,9 @@
 
         <!-- Block Checks -->
 
+        <!--
         <module name='EmptyBlock' />
+        -->
         <module name='LeftCurly' />
         <module name='NeedBraces' />
         <module name='RightCurly' />
