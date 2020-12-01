@@ -2,9 +2,9 @@
 
 Sovelluksella käyttäjä voi arvoida mikä on kuvan väri. Ladataan kuva jostain ja koitetaan arvioida pystyykö käyttäjä sanomaan mikä on sen RGB-värikoodi.
 
-## release
+## Releases
 
-[Release Zero](https://github.com/jussico/ot-harjoitustyo/releases/tag/pre-zero)
+[Release Viikko5](https://github.com/jussico/ot-harjoitustyo/releases/tag/viikko5)
 
 ## Dokumentaatio
 
