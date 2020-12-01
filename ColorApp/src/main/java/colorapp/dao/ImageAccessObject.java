@@ -41,7 +41,7 @@ public class ImageAccessObject {
         return returnMessages;
     }
 
-    public Map<String, BufferedImage> getImages(List<String> listOfPics) throws CantGetImageException {
+    public Map<String, BufferedImage> getImages(List<String> listOfPics) {
         Map<String, BufferedImage> pathsToImagesMap = new HashMap<String, BufferedImage>();
         for (String location : listOfPics) {
             BufferedImage image = getImage(location);
