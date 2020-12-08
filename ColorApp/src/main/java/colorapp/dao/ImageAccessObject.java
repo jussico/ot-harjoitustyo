@@ -29,16 +29,24 @@ public class ImageAccessObject {
 
         for (String path : listOfPics) {
             if (path.startsWith("https://")) {
-                // ok. do something.
+                tryToGetImageAndReportPossibleError(path, returnMessages);
             } else if (path.startsWith("http://")) {
-                // ok. do something.
+                tryToGetImageAndReportPossibleError(path, returnMessages);
             } else if (path.startsWith("file:///")) {
-                //
+                tryToGetImageAndReportPossibleError(path, returnMessages);
             } else {
                 returnMessages.add("NOT ACCEPTED: " + path);
             }
         }
         return returnMessages;
+    }
+
+    private void tryToGetImageAndReportPossibleError(String imagePath, List<String> returnMessages) {
+        try {
+            getImage(imagePath);
+        } catch (Exception x) {
+            returnMessages.add("ERROR GETTING IMAGE: " + imagePath);    
+        }
     }
 
     public Map<String, BufferedImage> getImages(List<String> listOfPics) {

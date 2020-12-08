@@ -13,12 +13,11 @@ public class QuizService {
     }
     
     /**
-    * Uuden arvauksen tekeminen.
+    * Make a new quess
     *
     * @param   quess	arvaus
     * @param	correct	oikea vastaus
     */
-    
     public boolean makeQuess(String quess, String correct) {
     	// TODO
     	if (quess.equals(correct)) {

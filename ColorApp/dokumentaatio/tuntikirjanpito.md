@@ -9,5 +9,8 @@
 |        | 0.5  | checkstyle |
 |        | 2    | new classes |
 | 1.12. | 3     | coding, new classes |
-| yht   | 10   | | 
+| 8.12. | 1.5   | coding, new classes |
+|       | 1     | javadoc task problem |
+|       | 0.5   | javadocs              |
+| yht   | 13   | | 
 
