@@ -4,6 +4,8 @@ Sovelluksella käyttäjä voi arvoida mikä on kuvan väri. Ladataan kuva jostai
 
 ## Releases
 
+[Release Viikko6](https://github.com/jussico/ot-harjoitustyo/releases/tag/viikko6)
+
 [Release Viikko5](https://github.com/jussico/ot-harjoitustyo/releases/tag/viikko5)
 
 ## Dokumentaatio
