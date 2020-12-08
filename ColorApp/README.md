@@ -8,7 +8,7 @@ Sovelluksella käyttäjä voi arvoida mikä on kuvan väri. Ladataan kuva jostai
 
 ## Dokumentaatio
 
-TODO: [Käyttöohje](https://github.com/jussico/ot-harjoitustyo/blob/master/ColorApp/dokumentaatio/kayttoohje.md)
+[Käyttöohje](https://github.com/jussico/ot-harjoitustyo/blob/master/ColorApp/dokumentaatio/kayttoohje.md)
 
 [Vaatimusmäärittely](https://github.com/jussico/ot-harjoitustyo/blob/master/ColorApp/dokumentaatio/vaatimusmaarittely.md)
 
