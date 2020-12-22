@@ -18,7 +18,7 @@
         <module name='LeftCurly' />
         <module name='NeedBraces' />
         <module name='RightCurly' />
-        <module name='AvoidNestedBlocks' />
+        <!-- <module name='AvoidNestedBlocks' /> -->
         <module name="NestedIfDepth">
           <property name="max" value="2"/>
         </module>
@@ -33,7 +33,7 @@
         <module name="OneStatementPerLine"/>
         <module name="MethodLength">
             <property name="tokens" value="METHOD_DEF"/>
-            <property name="max" value="20"/>
+            <property name="max" value="42"/>
             <property name="countEmpty" value="false"/>
         </module>
 
@@ -43,7 +43,7 @@
         <module name='ConstantName' />
         <module name='LocalFinalVariableName' />
         <module name='LocalVariableName' />
-        <module name='MemberName' />
+        <!-- <module name='MemberName' /> -->
         <module name='MethodName' />
         <module name='MethodTypeParameterName' />
 

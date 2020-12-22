@@ -9,4 +9,11 @@ target/
 nbactions.xml
 *.jpg
 *.png
+.gradle/
+.idea/
+Colorapp.iml
+.classpath/
+.project/
+.settings/
+
 

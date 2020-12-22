@@ -1,15 +1,16 @@
 package colorapp;
 
-import colorapp.ui.ColorUi;
+import colorapp.ui.ColorApp;
+
 /**
- * Application main class
+ * Application entry point class
  */
 public class Main {
     /**
-     * App entry point
+     * App entry point - main method
      * @param args
      */
     public static void main(String[] args) {
-        ColorUi.main(args);
+        ColorApp.main(args);
     }
 }

@@ -16,7 +16,7 @@ Sovelluksella käyttäjä voi arvoida mikä on kuvan väri. Ladataan kuva jostai
 
 [Arkkitehtuurikuvaus](https://github.com/jussico/ot-harjoitustyo/blob/master/ColorApp/dokumentaatio/arkkitehtuuri.md)
 
-TODO: [Testausdokumentti](https://github.com/jussico/ot-harjoitustyo/blob/master/ColorApp/dokumentaatio/testaus.md)
+[Testausdokumentti](https://github.com/jussico/ot-harjoitustyo/blob/master/ColorApp/dokumentaatio/testaus.md)
 
 [Työaikakirjanpito](https://github.com/jussico/ot-harjoitustyo/blob/master/ColorApp/dokumentaatio/tuntikirjanpito.md)
 
@@ -60,7 +60,7 @@ JavaDocia voi tarkastella avaamalla selaimella tiedosto _target/site/apidocs/ind
 
 ### Checkstyle
 
-Tiedostoon [checkstyle.xml](https://github.com/mluukkai/OtmTodoApp/blob/master/checkstyle.xml) määrittelemät tarkistukset suoritetaan komennolla
+Tiedostoon [checkstyle.xml](https://github.com/jussico/ot-harjoitustyo/blob/master/ColorApp/checkstyle.xml) määrittelemät tarkistukset suoritetaan komennolla
 
 ```
  mvn jxr:jxr checkstyle:checkstyle

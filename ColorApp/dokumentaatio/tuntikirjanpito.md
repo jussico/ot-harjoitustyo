@@ -12,5 +12,11 @@
 | 8.12. | 1.5   | coding, new classes |
 |       | 1     | javadoc task problem |
 |       | 0.5   | javadocs              |
-| yht   | 13   | | 
+| 18.12. | 2    | koodausta           |
+| 19.12. | 2    | koodausta            |
+| 20.12. | 2    | koodausta           |
+| 21.12. | 2    | testejä, dokkareita |
+| 22.12. | 2    | dokkareita          |
+
+| yht   | 23   | | 
 
