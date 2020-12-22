@@ -1,6 +1,6 @@
 # Käyttöohje
 
-Lataa tiedosto [colorapp.jar](https://github.com/jussico/ColorApp/releases/tag/0.1)
+Lataa tiedosto [colorapp.jar](https://github.com/jussico/ot-harjoitustyo/releases/download/1.0/colorapp.jar)
 
 ## Ohjelman käynnistäminen
 
