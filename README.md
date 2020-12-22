@@ -1,8 +1,10 @@
 # ColorApp
 
-Sovelluksella käyttäjä voi arvoida mikä on kuvan väri. Ladataan kuva jostain ja koitetaan arvioida pystyykö käyttäjä sanomaan mikä on sen RGB-värikoodi.
+Sovelluksella käyttäjä voi arvoida mikä on kuvan väri. Ladataan kuvia jostain ja koitetaan arvioida pystyykö käyttäjä sanomaan mikä kuvan RGB-värikoodi.
 
 ## Releases
+
+[Release Final](https://github.com/jussico/ot-harjoitustyo/releases/tag/1.0)
 
 [Release Viikko6](https://github.com/jussico/ot-harjoitustyo/releases/tag/viikko6)
 
